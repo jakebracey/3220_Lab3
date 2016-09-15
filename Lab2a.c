@@ -27,7 +27,7 @@ int main(void) {
 	while(choice!=0)
 	{
 		printf("Welcome to this program!\n");
-		printf("Another comment");
+		printf("Another comment2");
 		printf("\nSelect a Program\n1: Factorial Calculator\n2: Leap Year Calculator\n"
 							"3: Maximum Calculator\n4: Division\n0: Exit\n"); //asks for user input
 		scanf("%d", &choice);
