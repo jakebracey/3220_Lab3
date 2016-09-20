@@ -24,9 +24,10 @@ int main(void) {
 	int bot=0;
 	float ans=0;
 
+	printf("First update");
 	while(choice!=0)
 	{
-		printf("Welcome to this program!in git\n");
+		printf("Welcome to this programcd !in git\n");
 		printf("Another comment23");
 		printf("Another comment2");
 		printf("\nSelect a Program\n1: Factorial Calculator\n2: Leap Year Calculator\n"
