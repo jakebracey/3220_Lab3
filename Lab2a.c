@@ -24,7 +24,7 @@ int main(void) {
 	int bot=0;
 	float ans=0;
 
-	printf("First update");
+	printf("Step 4 modify");
 	while(choice!=0)
 	{
 		printf("Welcome to this programcd !in git\n");
